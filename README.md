@@ -1,1 +1,3 @@
-# ICP-CDF20CDF-2026-REPO
+# Data Engineering Internship Tasks
+
+This repository contains internship tasks and project submissions completed during the internship period.
